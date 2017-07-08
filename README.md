@@ -1,2 +1,2 @@
-# gitstudy
-git study repo
+# git selfstudy
+git self study repo
